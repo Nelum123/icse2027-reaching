@@ -1,0 +1,11 @@
+Parser,Mode,Shallow,Medium,Deep
+ParserA,Blackbox,6.58,6.81,5.63
+ParserA,Greybox,6.68,6.43,5.67
+ParserB,Blackbox,9.64,3.5,6.05
+ParserB,Greybox,9.53,3.79,5.85
+ParserC,Blackbox,12.38,4.45,13.41
+ParserC,Greybox,10.46,4.7,12.99
+ParserD,Blackbox,16.55,4.93,22.77
+ParserD,Greybox,14.12,5.0,21.82
+ParserE,Blackbox,19.92,4.42,30.61
+ParserE,Greybox,18.48,4.84,29.54

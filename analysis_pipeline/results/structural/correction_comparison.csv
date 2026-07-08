@@ -1,0 +1,4 @@
+depth_bin,"OLD_mean_log_err (all rows, old GT)","NEW_mean_log_err (structural, new GT)",n_all,n_structural,fallback_excluded
+shallow,11.028399966835673,4.7641193054358775,3908,1582,2326
+medium,4.015437604778125,4.986742424418984,347502,330055,17447
+deep,8.319096885312721,4.972590208431055,321453,234306,87147
